@@ -2,5 +2,12 @@ body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4c4c4;
+  background-image: url("./assets/img/bgcats2.jpg");
+  background-size: 75% 100%;
+  opacity: 0.8;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr; /* Three equal columns */
+  grid-gap: 10px; 
 }
