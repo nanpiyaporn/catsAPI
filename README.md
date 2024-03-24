@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 
 - [x] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
 - [x] **Only one item/API call is viewable at a time**
-- [ ] **API calls appear random to the user**
-- [ ] **At least one image is displayed per API call**
+- [x] **API calls appear random to the user**
+- [x] **At least one image is displayed per API call**
 - [ ] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
 - [ ] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
 
