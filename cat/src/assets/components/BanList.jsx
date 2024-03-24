@@ -5,7 +5,8 @@ const BanList = () => {
   // Component code here
   return (
     <div className="banlist">
-      <h1>BanList</h1>
+      <h1>Ban List</h1>
+      <div></div>
     </div>
   )
 }
